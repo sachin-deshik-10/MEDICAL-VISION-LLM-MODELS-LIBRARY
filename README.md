@@ -5,7 +5,7 @@
 
 <!-- <hr /> -->
 
-# <p align=center>`Awesome Medical Vison-Language Models`</p>
+# <p align=center>` Medical Vison-Language Models`</p>
 
 A curated list of awesome resources in medical vision-language models (**in chronological order**), inspired by the other awesome-initiatives. 
 
